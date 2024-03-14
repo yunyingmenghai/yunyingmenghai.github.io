@@ -65,15 +65,15 @@ author:
     - label: "知识库"
       icon: "fas fa-fw fa-link"
       url: "https://bmm4yorldf.feishu.cn/wiki/space/7342421579445567491?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home"
-    - label: "Twitter"
+    - label: "知乎"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://www.zhihu.com/people/yunyingmenghai"
+    - label: "哔哩哔哩"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://space.bilibili.com/385101157"
+    - label: "百家号"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://author.baidu.com/home/1584946767882300"
 
 footer:
   links:
