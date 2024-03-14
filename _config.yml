@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "云樱梦海"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "知识库"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://bmm4yorldf.feishu.cn/wiki/space/7342421579445567491?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
