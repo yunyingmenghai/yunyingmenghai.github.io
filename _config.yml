@@ -96,7 +96,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: provider: "disqus" disqus: shortname: "your-disqus-shortname" //...... default: comments: true
       share: true
       related: true
   # _pages
